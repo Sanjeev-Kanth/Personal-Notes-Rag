@@ -1,0 +1,29 @@
+My Java Notes
+
+Java is a high-level, object-oriented programming language.
+
+Encapsulation is the process of wrapping data and methods together inside a class. It is commonly implemented using private variables and public getter and setter methods.
+
+Inheritance allows one class to acquire properties and methods from another class. In Java, inheritance can be implemented using the extends keyword.
+
+Polymorphism means one interface or method name can have multiple forms. Method overloading is compile-time polymorphism, while method overriding is runtime polymorphism.
+
+Abstraction means hiding implementation details and showing only the essential functionality. Java provides abstraction through abstract classes and interfaces.
+
+A constructor is a special method used to initialize an object. It has the same name as the class and does not have a return type.
+
+RAG stands for Retrieval-Augmented Generation. RAG allows an LLM to retrieve relevant information from an external knowledge source before generating an answer.
+
+Embeddings are numerical representations of text that capture semantic meaning. Similar pieces of text tend to have similar embeddings.
+
+A vector database stores vector representations of data and allows similarity searches.
+
+Semantic search finds information based on meaning rather than simply matching exact keywords.
+
+LangChain is a framework for developing applications powered by language models. It provides components for models, prompts, document loaders, text splitters, embeddings, vector stores, and retrieval.
+
+Chroma is a vector database that can store embeddings and perform similarity searches.
+
+Chunking is the process of splitting a large document into smaller pieces before generating embeddings.
+
+Chunk overlap means that consecutive chunks share some text. This helps preserve context when important information appears across chunk boundaries.
